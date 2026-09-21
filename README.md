@@ -3,20 +3,20 @@
 </h3>
 
 <h4 align="center">
-  ⚙ I'm Steven, a 4th year Computer Science student at Carleton University and passionate developer with a love for technology.  <br> <br>
+  ⚙ I'm Steven, a Software Developer at TrendAI and Computer Science graduate from Carleton University with a love for technology <br> <br>
   
   ✨ Check out my portfolio 
-  <a href="https://slin-1.github.io/" target="_blank">here!</a>  
+  <a href="https://slin-0.github.io/" target="_blank">here!</a>  
   
   📫 How to reach me: stevenlin1238@outlook.com
 </h4>
 
 <p align="center">
-  <img src="https://github.com/slin-1/slin-1/assets/105820635/d3d2c177-a382-40e9-8e20-f966d3935e1e" width=35%>
+  <img src="https://github.com/slin-0/slin-0/assets/105820635/d3d2c177-a382-40e9-8e20-f966d3935e1e" width=35%>
 </p>
 
 <!--
-**slin-1/slin-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**slin-0/slin-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
